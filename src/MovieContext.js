@@ -7,17 +7,17 @@ const MovieProvider = ({ children }) => {
     {
       id: "1001",
       name: "Harry Potter",
-      price: "$10",
+      price: "10",
     },
     {
       id: "1002",
       name: "Lord of the Rings",
-      price: "$10",
+      price: "10",
     },
     {
       id: "1003",
       name: "Creed",
-      price: "$15",
+      price: "15",
     },
   ]);
 

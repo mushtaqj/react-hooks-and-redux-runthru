@@ -1,8 +1,7 @@
 const Movie = ({ movie }) => {
   return (
     <div>
-      <h3>{movie.name}</h3>
-      <p>{movie.price}</p>
+      <h3>{movie.name} : ${movie.price}</h3>
     </div>
   );
 };
